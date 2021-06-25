@@ -282,7 +282,7 @@ nav ul li a:hover::before {
 
 footer {
     padding: 5rem 0;
-    background-color: var(--dark-blue);
+    background-color: var(--dark-blue);   
 }
 
 .footer {
@@ -308,9 +308,6 @@ footer {
 .footer-links ul li a:hover {
     color: var(--lime-green);
 }
-
-
-
 
 
 
